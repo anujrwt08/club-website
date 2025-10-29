@@ -41,7 +41,7 @@ export default function Footer() {
                 <Linkedin className="w-5 h-5" />
               </a>
               <a
-                href="mailto:cybersec@college.edu"
+                href="mailto:anujrwt08@gmail.com"
                 className="hover-elevate active-elevate-2 p-2 rounded-md"
                 data-testid="link-footer-email"
               >

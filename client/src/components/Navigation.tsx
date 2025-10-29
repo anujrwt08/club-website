@@ -21,7 +21,7 @@ export default function Navigation() {
           <Link href="/">
             <a className="flex items-center gap-2 hover-elevate active-elevate-2 rounded-md px-3 py-2 -ml-3" data-testid="link-home-logo">
               <Shield className="w-6 h-6 text-primary" />
-              <span className="font-semibold text-lg">CyberSec Club</span>
+              <span className="font-semibold text-lg">Anuj Rawat Club</span>
             </a>
           </Link>
 
