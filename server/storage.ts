@@ -61,7 +61,7 @@ export class MemStorage implements IStorage {
         type: "leadership" as const,
       },
       {
-        name: "Jordan Kim",
+        name: "Vishal ",
         role: "Technical Lead",
         position: "Technical Lead",
         major: "Computer Engineering",
@@ -80,7 +80,7 @@ export class MemStorage implements IStorage {
 
     // Seed Core Members
     const coreMembers = [
-      { name: "Emily Rodriguez", role: "CTF Team Captain", type: "member" as const },
+      { name: "Anuj Rawat", role: "CTF Team Captain", type: "member" as const },
       { name: "Michael Chang", role: "Workshop Coordinator", type: "member" as const },
       { name: "Priya Patel", role: "Social Media Manager", type: "member" as const },
       { name: "David Thompson", role: "Member", type: "member" as const },

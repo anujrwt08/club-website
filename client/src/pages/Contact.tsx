@@ -113,7 +113,7 @@ export default function Contact() {
                             <FormControl>
                               <Input 
                                 type="email" 
-                                placeholder="your.email@college.edu" 
+                                placeholder="your.email@gmail.com" 
                                 {...field} 
                                 data-testid="input-email"
                               />
@@ -190,11 +190,11 @@ export default function Contact() {
                   <div>
                     <h3 className="font-semibold mb-1">Email</h3>
                     <a 
-                      href="mailto:cybersec@college.edu" 
+                      href="mailto:anujrwt08@gmail.com" 
                       className="text-muted-foreground hover:text-foreground transition-colors"
                       data-testid="link-email"
                     >
-                      cybersec@college.edu
+                      anujrwt08@gmail.com
                     </a>
                     <p className="text-sm text-muted-foreground mt-1">
                       We typically respond within 24-48 hours
@@ -226,7 +226,7 @@ export default function Contact() {
                   <div>
                     <h3 className="font-semibold mb-1">Meeting Schedule</h3>
                     <p className="text-muted-foreground">
-                      <span className="font-mono text-sm">Thursdays @ 6:00 PM</span><br />
+                      <span className="font-mono text-sm">Thursdays @ 4:00 PM</span><br />
                       <span className="text-sm">All skill levels welcome!</span>
                     </p>
                   </div>
